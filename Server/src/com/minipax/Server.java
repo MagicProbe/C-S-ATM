@@ -88,6 +88,7 @@ public class Server {
                 }
 
                 if ("-exit".equals(cmd)) {
+
                     exit(1);
                 }
             }
